@@ -1,1 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Bitter);
 
+body {
+    background-color: #03191E;
+    color: white;
+}
+.bg-info {
+    background-color: #6C6F7F !important;
+}
+.navbar-light .navbar-brand {
+    color: white;
+    font-family: "Bitter";
+    font-weight: bold;
+}
+.form-group {
+    color: white;
+}
+.btn-primary {
+    background-color: #CAD49D;
+    color: black;
+    border-color: #D4EAC8;
+}
